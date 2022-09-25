@@ -1,0 +1,107 @@
+body{
+	background-color:#E6B137;
+	margin:0px;
+	padding:0px;
+}
+#header{
+	height:200px;
+	
+	background:url(head.jpg) 50% 50% no-repeat;
+	background-attachment: scroll;
+}
+#header span {
+	letter-spacing:20px;
+	font-family:arial;
+	color:black;
+	font-size:150px;
+	padding-left:215px;
+	text-align:center;
+	background-attachment: fixed;
+}
+#menu{
+	background:url(menu1.jpg) no-repeat;
+	margin:0px;
+	padding:0px;
+	height:50px;
+	list-style-type:none;
+	width: 100%;
+	text-align:center;
+	background-color:#110C08;
+}
+#menu a{
+	Padding:10px 15px;
+	text-decoration:none;
+	display:inline-block;
+}
+#menu li{
+	display:inline;
+	padding:20px 10px;
+	height:50px;
+}
+#menu li span{
+	color:white;
+	font-size:25px;
+	font-family:arial;
+	font-weight:bold;
+	padding:10px 30px;
+	margin-top:5px;
+}
+#menu li span:hover{
+	
+	background-color:white;
+	padding:10px 30px;
+	
+	font-weight:bold;
+	text-align:center;
+	font-family:arial;
+	height:50px;
+	
+	cursor: pointer;
+	color:#110C08;
+	border-radius:25px;
+}
+#footer {
+	margin:0px;
+	padding-top:15px;
+	height:100px;
+	background-size:cover;
+	background-color:#110C08;
+}
+#footer p{
+	font-size:15px;
+	margin:5px;
+		text-align:left;
+	color:white;
+	padding-left:75px;
+}
+h1 {
+	text-align:center;
+	color:black;
+	font-family:arial;
+	}
+.k{
+	text-align:left;
+	color:black;
+	font-size:20px;
+	font-family:arial;
+	padding-left:100px;
+	font-weight:bold;
+	
+}
+.k span{
+	color:white;
+	font-size:20px;
+	font-weight:bold;
+}
+.k table{
+	color:white;
+	font-size:20px;
+	font-weight:bold;
+}
+h3{
+	padding-left:100px;
+}
+table{
+	padding-left:100px;
+	
+}
